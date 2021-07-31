@@ -83,6 +83,7 @@ img {
     font-weight: 600;
 }
 
-.copyright span {
+.copyright a {
+    text-decoration: none;
     color: #00c7fc;
 }
